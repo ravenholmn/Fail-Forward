@@ -27,3 +27,5 @@
 
 
 [itch.io page](https://kamos-dev.itch.io/fail-forward)
+
+<sub>Made with Unity 2022.3.28f1</sub>
