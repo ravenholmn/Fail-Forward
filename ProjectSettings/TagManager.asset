@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RoomEnter
+  - PlayerHurtBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Wall
+  - VFX
+  - HurtBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 343387403
+    locked: 0
+  - name: Ground
+    uniqueID: 2500201569
+    locked: 0
+  - name: Walls
+    uniqueID: 992738879
+    locked: 0
+  - name: Platforms
+    uniqueID: 3510557169
+    locked: 0
+  - name: Player
+    uniqueID: 2230327351
+    locked: 0
+  - name: Foreground
+    uniqueID: 1873973039
+    locked: 0
