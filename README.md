@@ -1,4 +1,4 @@
-# Made for [NSJS Game Jam](https://itch.io/jam/nsjs-2024-jam-2).
+# Made for [NSJS Game Jam](https://itch.io/jam/nsjs-2024-jam-2). This game was developed under 48 hours.
 ## Heavily inspired by Celeste. This was my first solo jam project. Hope you enjoy it.
 ### Fail Forward is a 2D platformer game where when you die, you leave a ghost that repeats all your movement in your previous life. You can use your ghost as a platform, therefore you can fail strategically in order to overcome obstacles that you couldn't otherwise.
 
