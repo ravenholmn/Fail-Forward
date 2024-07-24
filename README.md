@@ -5,7 +5,7 @@
 ## Controls:
 - Use Arrow keys to walk, C to jump and X to dash.
 - You can walljump and wallslide. Press C to jump while sliding on a wall.
-- You can stand on top of your ghost. Your ghost copies your previous movement and stays where you died. This enables you to fail strategically to help your future self.
+- You can stand on top of your ghost. Your ghost copies your previous movement until the point where you die and stays there. This enables you to fail strategically to help your future self.
 - Coins regen your dash ability.
 
 ## Assets used:
