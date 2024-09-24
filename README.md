@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69987f65-270d-4506-ac0c-cf30e3bd4a51" />
+  <a href="https://kamos-dev.itch.io/fail-forward"><img src="https://github.com/user-attachments/assets/69987f65-270d-4506-ac0c-cf30e3bd4a51" />
 </p>
 
 
@@ -20,12 +20,13 @@
 - [Sound Effects](https://opengameart.org/content/nes-8-bit-sound-effects)
 
 ### Some in-game images:
-![Ghost showcase](https://github.com/user-attachments/assets/477f7259-aac4-4181-a063-f0c8bd5e476f)
-![Level Example](https://github.com/user-attachments/assets/e041077a-7bd1-4be2-a138-57b25b1931a0)
-![Level Example](https://github.com/user-attachments/assets/ab13f127-f9ae-4310-831c-a3982d28891a)
-![Level Example](https://github.com/user-attachments/assets/987d1dc2-251d-4cb9-8783-cc5773368bd5)
 
 
-[itch.io page](https://kamos-dev.itch.io/fail-forward)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/477f7259-aac4-4181-a063-f0c8bd5e476f" width="400"/>
+<img src="https://github.com/user-attachments/assets/e041077a-7bd1-4be2-a138-57b25b1931a0" width="400"/>
+<img src="https://github.com/user-attachments/assets/ab13f127-f9ae-4310-831c-a3982d28891a" width="400"/>
+<img src="https://github.com/user-attachments/assets/987d1dc2-251d-4cb9-8783-cc5773368bd5" width="400"/>
+</div>
 
 <sub>Made with Unity 2022.3.28f1</sub>
